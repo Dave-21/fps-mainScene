@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FPS Template",
+"productVersion": "1.2.0",
+"dataUrl": "mainscene.data.unityweb",
+"wasmCodeUrl": "mainscene.wasm.code.unityweb",
+"wasmFrameworkUrl": "mainscene.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
